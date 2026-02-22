@@ -94,8 +94,8 @@ The application uses a Supabase table named tasks.
 - is_completed
 
 <p align="center">
-<img width="260" alt="Screenshot 2026-02-22 211045" src="https://github.com/user-attachments/assets/0b080da3-c0c9-41d7-9361-de825aa82620" />
-<img width="260" alt="Screenshot 2026-02-22 211108" src="https://github.com/user-attachments/assets/f6ab85cb-9594-4d37-8086-15667f490d35" />
+<img width="300" alt="Screenshot 2026-02-22 211045" src="https://github.com/user-attachments/assets/0b080da3-c0c9-41d7-9361-de825aa82620" />
+<img width="300" alt="Screenshot 2026-02-22 211108" src="https://github.com/user-attachments/assets/f6ab85cb-9594-4d37-8086-15667f490d35" />
 </p>
 
 
